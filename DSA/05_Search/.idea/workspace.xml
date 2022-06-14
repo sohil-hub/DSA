@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="235e27dd-b2e3-4366-83be-6af537e7b9b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="235e27dd-b2e3-4366-83be-6af537e7b9b8" name="Changes" comment="Binary Search Problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Find_All_Occurrences_Of_Target">
+  <component name="RunManager" selected="Application.Position_Of_Element_In_Infinite_Sorted_Array">
     <configuration name="Ceiling_Floor_With_Order_Agnostic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sohil.Ceiling_Floor_With_Order_Agnostic" />
       <module name="untitled104" />
@@ -127,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Order_Agnostic_Binary_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sohil.Order_Agnostic_Binary_Search" />
+    <configuration name="Position_Of_Element_In_Infinite_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sohil.Position_Of_Element_In_Infinite_Sorted_Array" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
@@ -154,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Order_Agnostic_Binary_Search" />
       <item itemvalue="Application.Ceiling_Floor_With_Order_Agnostic" />
       <item itemvalue="Application.Smallest_Char_Greater_Than_Target" />
       <item itemvalue="Application.First_And_Last_Position_Of_Target" />
       <item itemvalue="Application.Find_All_Occurrences_Of_Target" />
+      <item itemvalue="Application.Position_Of_Element_In_Infinite_Sorted_Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Position_Of_Element_In_Infinite_Sorted_Array" />
         <item itemvalue="Application.Find_All_Occurrences_Of_Target" />
         <item itemvalue="Application.First_And_Last_Position_Of_Target" />
         <item itemvalue="Application.Smallest_Char_Greater_Than_Target" />
         <item itemvalue="Application.Ceiling_Floor_With_Order_Agnostic" />
-        <item itemvalue="Application.Order_Agnostic_Binary_Search" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +190,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Binary Search Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Search Problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
